@@ -1,2 +1,2 @@
 # hello-world-07232025
-Code Louisville Prerequisite
+This repository is for practicing the GitHub Flow.
